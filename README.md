@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesMosley
-- 👀 I’m interested in front end development.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning java script (react frameworks).
 - 💞️ I’m looking to collaborate on webbased projects
 - 📫 You can reach me via my email(jimmosley90@gmail.com).
